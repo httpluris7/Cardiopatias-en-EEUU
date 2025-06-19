@@ -1,0 +1,1001 @@
+AgeCategory,AlcoholDrinking,Asthma,BMI,Diabetic,GenHealth,HeartDisease,KidneyDisease,PhysicalActivity,Race,Sex,SkinCancer,SleepTime,Smoking,Stroke,Año
+70-74,No,No,36.52,Yes,Good,No,No,No,White,Male,No,7.0,No,No,2020
+Age 65 to 69,Yes,No,22.32,No,Fair,No,No,No,"Black only, Non-Hispanic",Male,No,12.0,Former smoker,No,2022
+60-64,No,No,38.01,No,Good,No,Yes,Yes,White,Female,No,8.0,No,No,2020
+50-54,No,No,31.38,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+65-69,No,No,27.98,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+70-74,No,No,23.49,No,Very good,No,No,Yes,White,Female,Yes,8.0,No,No,2020
+Age 75 to 79,Yes,No,24.89,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+55-59,No,No,31.19,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,Yes,2020
+65-69,No,No,30.9,"No, borderline diabetes",Good,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+Age 75 to 79,Yes,No,24.68,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,7.0,Former smoker,No,2022
+Age 65 to 69,Yes,No,35.26,Yes,Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+45-49,No,No,30.43,No,Excellent,No,No,No,Black,Male,No,7.0,Yes,No,2020
+60-64,No,No,32.08,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+18-24,No,Yes,25.1,No,Excellent,No,No,Yes,Hispanic,Male,No,8.0,No,No,2020
+80 or older,No,Yes,26.12,No,Good,No,No,Yes,White,Female,No,7.0,No,No,2020
+25-29,No,No,30.67,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,20.66,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+Age 35 to 39,Yes,No,32.55,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes some days,No,2022
+Age 55 to 59,Yes,No,31.57,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+18-24,No,No,28.34,No,Good,No,No,Yes,White,Female,No,7.0,No,No,2020
+55-59,No,No,28.48,No,Very good,No,No,Yes,White,Male,No,4.0,Yes,No,2020
+60-64,Yes,No,23.03,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+55-59,No,No,22.83,No,Excellent,No,No,Yes,White,Female,Yes,6.0,Yes,No,2020
+Age 40 to 44,Yes,No,23.78,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+18-24,No,Yes,34.87,No,Fair,No,Yes,Yes,White,Male,No,6.0,No,No,2020
+Age 65 to 69,Yes,No,32.01,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 25 to 29,Yes,No,32.22,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,10.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,29.84,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 70 to 74,No,No,30.87,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,9.0,Former smoker,No,2022
+Age 50 to 54,Yes,No,30.13,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+25-29,No,No,21.63,No,Excellent,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+Age 80 or older,Yes,No,26.57,Yes,Very good,Yes,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+70-74,No,Yes,38.01,Yes,Good,No,No,Yes,White,Male,No,5.0,Yes,No,2020
+Age 45 to 49,No,No,28.37,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,4.0,Former smoker,No,2022
+25-29,No,No,45.61,No,Very good,No,No,Yes,American Indian/Alaskan Native,Female,No,4.0,No,No,2020
+40-44,No,No,35.87,No,Very good,No,No,No,Black,Male,No,6.0,No,No,2020
+70-74,No,No,24.8,No,Fair,No,No,No,White,Female,No,9.0,No,No,2020
+40-44,No,No,30.67,No,Fair,No,No,Yes,White,Female,No,5.0,Yes,No,2020
+65-69,No,No,28.32,No,Good,No,No,Yes,Black,Female,No,7.0,No,No,2020
+65-69,No,No,31.47,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+18-24,No,No,21.87,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+45-49,No,Yes,37.59,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+55-59,No,No,27.41,No,Good,No,No,No,White,Female,Yes,6.0,No,No,2020
+75-79,No,No,25.97,No,Good,No,No,Yes,Black,Male,No,8.0,Yes,No,2020
+70-74,No,No,25.11,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 65 to 69,No,No,25.22,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 70 to 74,No,No,31.53,Yes,Fair,Yes,Yes,No,"White only, Non-Hispanic",Female,No,12.0,Never smoked,No,2022
+18-24,No,Yes,33.84,No,Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,23.13,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 30 to 34,No,No,27.4,No,Very good,No,No,Yes,Hispanic,Female,No,6.0,Never smoked,No,2022
+Age 40 to 44,No,No,34.54,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+Age 65 to 69,No,No,33.47,Yes,Good,No,No,No,"Black only, Non-Hispanic",Male,No,5.0,Never smoked,No,2022
+Age 65 to 69,No,No,26.57,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+75-79,No,No,24.39,No,Good,Yes,No,Yes,Other,Male,No,8.0,No,No,2020
+25-29,No,No,27.12,No,Good,No,No,Yes,White,Male,No,4.0,Yes,No,2020
+30-34,No,No,25.85,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+50-54,No,No,28.06,No,Excellent,No,No,No,Black,Male,No,8.0,No,No,2020
+Age 50 to 54,Yes,No,28.89,No,Good,No,No,Yes,"Multiracial, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 30 to 34,Yes,No,39.32,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+70-74,No,No,34.46,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 80 or older,Yes,Yes,24.14,No,Good,No,No,Yes,"Black only, Non-Hispanic",Female,No,5.0,Former smoker,No,2022
+60-64,No,Yes,25.79,"No, borderline diabetes",Fair,Yes,No,No,Hispanic,Female,No,5.0,No,No,2020
+Age 35 to 39,Yes,Yes,31.78,"No, pre-diabetes or borderline diabetes",Fair,No,No,Yes,"Black only, Non-Hispanic",Female,No,5.0,Former smoker,No,2022
+55-59,No,No,26.61,Yes,Good,No,No,Yes,White,Female,No,9.0,Yes,No,2020
+Age 55 to 59,Yes,No,23.71,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,8.0,Never smoked,No,2022
+Age 60 to 64,No,No,26.32,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+55-59,No,No,25.63,No,Good,No,No,Yes,American Indian/Alaskan Native,Female,No,7.0,Yes,No,2020
+18-24,No,Yes,20.83,No,Excellent,No,No,Yes,Black,Female,No,7.0,No,No,2020
+50-54,No,No,27.32,No,Very good,No,No,Yes,White,Female,No,5.0,Yes,No,2020
+55-59,No,No,26.5,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 45 to 49,No,No,25.1,No,Excellent,No,No,Yes,"Other race only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+75-79,No,No,21.95,No,Very good,No,No,Yes,White,Female,Yes,6.0,No,No,2020
+55-59,No,No,25.85,No,Excellent,No,No,No,White,Male,No,7.0,No,No,2020
+80 or older,No,No,23.69,Yes,Good,No,No,No,White,Female,Yes,8.0,No,No,2020
+35-39,No,No,31.62,No,Poor,No,No,No,White,Female,No,9.0,Yes,No,2020
+18-24,No,No,21.11,No,Very good,No,No,Yes,White,Male,No,4.0,No,No,2020
+Age 50 to 54,No,No,26.57,No,Very good,No,No,No,"Other race only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 45 to 49,No,No,26.39,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+Age 55 to 59,No,No,38.74,No,Fair,No,No,No,"Black only, Non-Hispanic",Male,No,15.0,Current smoker - now smokes every day,No,2022
+55-59,No,No,24.21,No,Very good,No,No,No,Black,Female,No,8.0,No,No,2020
+50-54,No,No,28.13,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+65-69,No,No,25.4,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 50 to 54,No,No,33.47,"Yes, but only during pregnancy (female)",Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+70-74,No,No,26.32,No,Excellent,No,No,Yes,Hispanic,Male,No,6.0,No,No,2020
+60-64,No,Yes,23.44,No,Excellent,No,No,Yes,White,Male,No,5.0,No,No,2020
+Age 30 to 34,Yes,Yes,36.94,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 35 to 39,Yes,No,28.37,No,Excellent,No,No,Yes,"Other race only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+Age 25 to 29,No,No,22.14,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+25-29,No,No,24.21,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 55 to 59,No,Yes,28.32,Yes,Fair,No,Yes,No,"White only, Non-Hispanic",Female,Yes,7.0,Current smoker - now smokes some days,Yes,2022
+50-54,No,No,35.31,Yes,Fair,No,No,No,Other,Male,No,3.0,Yes,Yes,2020
+Age 70 to 74,No,Yes,39.31,No,Good,No,No,No,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+65-69,No,Yes,39.06,"No, borderline diabetes",Very good,No,No,No,White,Female,No,7.0,No,No,2020
+18-24,No,No,25.83,No,Very good,No,No,Yes,Hispanic,Male,No,8.0,No,No,2020
+55-59,No,No,22.85,No,Excellent,No,No,Yes,White,Male,Yes,8.0,No,No,2020
+50-54,No,No,21.62,No,Excellent,No,No,Yes,Other,Male,No,8.0,Yes,Yes,2020
+Age 45 to 49,No,No,29.09,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+70-74,No,No,24.8,No,Good,No,No,No,White,Female,No,9.0,Yes,No,2020
+50-54,No,No,23.49,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+65-69,No,Yes,29.53,No,Excellent,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+Age 25 to 29,Yes,No,29.84,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 65 to 69,No,No,20.32,No,Poor,No,No,Yes,"White only, Non-Hispanic",Male,Yes,7.0,Never smoked,No,2022
+40-44,No,No,20.98,No,Excellent,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+50-54,No,No,24.41,No,Very good,No,No,Yes,White,Male,No,10.0,Yes,No,2020
+75-79,No,No,21.95,No,Excellent,No,No,No,White,Female,No,8.0,No,No,2020
+Age 65 to 69,No,Yes,33.28,No,Very good,No,No,No,Hispanic,Female,No,5.0,Former smoker,No,2022
+Age 60 to 64,No,No,25.11,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+65-69,No,No,29.18,No,Excellent,No,No,Yes,Other,Female,No,8.0,No,No,2020
+35-39,No,No,28.48,No,Very good,No,No,No,White,Male,No,5.0,Yes,No,2020
+65-69,No,No,36.61,Yes,Fair,No,No,No,Black,Female,No,7.0,No,No,2020
+Age 18 to 24,Yes,No,31.95,No,Very good,No,No,No,Hispanic,Male,No,8.0,Former smoker,No,2022
+40-44,No,Yes,37.44,No,Good,No,No,Yes,White,Male,No,10.0,Yes,No,2020
+Age 40 to 44,No,No,23.49,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+75-79,No,No,31.09,No,Good,No,No,Yes,White,Female,Yes,8.0,No,No,2020
+70-74,No,Yes,33.2,Yes,Fair,No,No,No,Hispanic,Female,No,7.0,Yes,No,2020
+Age 60 to 64,Yes,No,27.26,No,Fair,Yes,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 55 to 59,Yes,No,23.69,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,5.0,Former smoker,No,2022
+65-69,No,No,28.48,No,Fair,No,No,Yes,White,Male,No,9.0,Yes,No,2020
+70-74,No,No,28.89,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+80 or older,No,No,29.53,No,Good,No,No,Yes,White,Male,Yes,7.0,Yes,No,2020
+Age 45 to 49,No,No,29.86,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 30 to 34,No,Yes,26.63,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+80 or older,No,No,22.43,No,Fair,No,No,No,White,Female,No,6.0,Yes,No,2020
+70-74,No,Yes,21.63,No,Fair,No,No,No,White,Female,No,5.0,Yes,No,2020
+65-69,No,Yes,23.78,No,Very good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+Age 65 to 69,No,No,43.75,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+70-74,No,Yes,22.15,Yes,Good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 55 to 59,Yes,No,30.0,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+30-34,No,No,29.05,No,Excellent,No,No,Yes,Black,Female,No,8.0,No,No,2020
+Age 30 to 34,Yes,No,23.49,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+55-59,No,No,26.57,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 65 to 69,No,No,27.55,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+65-69,No,No,36.61,Yes,Fair,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+18-24,No,No,26.57,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+18-24,No,No,19.89,No,Excellent,No,No,Yes,Hispanic,Female,No,8.0,No,No,2020
+60-64,No,No,37.59,Yes,Fair,No,Yes,No,White,Female,Yes,5.0,Yes,No,2020
+Age 50 to 54,Yes,No,32.32,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+65-69,No,No,21.93,No,Very good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+65-69,No,No,26.58,Yes,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+30-34,No,No,33.2,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+35-39,No,No,23.73,No,Fair,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 55 to 59,Yes,No,24.37,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 35 to 39,Yes,No,28.25,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 50 to 54,No,No,29.23,"No, pre-diabetes or borderline diabetes",Fair,No,No,No,"White only, Non-Hispanic",Female,No,5.0,Current smoker - now smokes every day,No,2022
+65-69,No,No,29.53,Yes,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+40-44,No,No,23.01,No,Good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 65 to 69,No,No,28.1,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+65-69,No,No,40.24,Yes,Fair,Yes,No,No,White,Female,No,8.0,Yes,No,2020
+30-34,No,No,26.63,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 50 to 54,Yes,No,21.79,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+45-49,No,No,23.49,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+50-54,Yes,No,24.21,No,Good,No,No,Yes,White,Male,No,5.0,No,No,2020
+50-54,No,No,19.53,Yes (during pregnancy),Very good,No,No,Yes,Hispanic,Female,No,6.0,Yes,No,2020
+Age 45 to 49,Yes,Yes,33.28,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+65-69,No,No,24.03,No,Excellent,No,No,Yes,Asian,Female,No,7.0,No,No,2020
+45-49,No,No,23.19,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+25-29,No,No,27.41,No,Very good,No,No,No,Other,Female,No,4.0,No,No,2020
+Age 50 to 54,Yes,No,29.5,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 40 to 44,No,No,33.47,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+70-74,No,No,26.78,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+60-64,No,No,26.26,No,Good,No,Yes,Yes,White,Female,No,6.0,No,No,2020
+40-44,No,No,50.12,No,Fair,No,No,No,White,Female,No,5.0,Yes,No,2020
+Age 30 to 34,No,Yes,42.53,Yes,Fair,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Current smoker - now smokes some days,No,2022
+Age 30 to 34,No,No,21.03,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+40-44,No,No,32.28,No,Good,No,No,No,American Indian/Alaskan Native,Female,No,8.0,No,No,2020
+Age 45 to 49,No,No,37.12,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+65-69,No,No,26.54,No,Excellent,No,No,No,White,Male,No,8.0,No,No,2020
+65-69,No,No,28.34,No,Good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+25-29,Yes,No,25.06,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 18 to 24,Yes,Yes,21.24,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,9.0,Never smoked,No,2022
+Age 80 or older,Yes,No,24.96,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+70-74,No,No,40.18,Yes,Good,No,No,No,White,Male,No,8.0,Yes,Yes,2020
+Age 70 to 74,Yes,No,33.5,Yes,Good,No,No,No,"White only, Non-Hispanic",Male,Yes,8.0,Former smoker,No,2022
+18-24,No,No,26.04,No,Excellent,No,No,No,Hispanic,Female,No,8.0,No,No,2020
+35-39,No,No,35.15,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 65 to 69,Yes,No,27.89,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+18-24,No,No,23.75,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 70 to 74,No,No,22.6,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 50 to 54,No,No,25.06,"No, pre-diabetes or borderline diabetes",Very good,No,No,Yes,"Other race only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 80 or older,No,No,24.39,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,9.0,Former smoker,No,2022
+80 or older,No,No,28.94,Yes,Good,Yes,No,No,White,Male,No,9.0,Yes,No,2020
+25-29,No,No,26.37,No,Excellent,No,No,Yes,Hispanic,Female,No,5.0,No,No,2020
+65-69,Yes,Yes,26.63,No,Good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+65-69,No,No,35.15,No,Good,No,No,Yes,White,Male,Yes,8.0,Yes,No,2020
+65-69,No,No,27.46,Yes,Fair,No,No,Yes,Black,Female,No,10.0,Yes,No,2020
+Age 70 to 74,Yes,No,28.89,No,Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+60-64,No,No,21.89,Yes,Fair,No,Yes,Yes,White,Male,No,12.0,No,No,2020
+Age 45 to 49,Yes,Yes,36.61,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,24.33,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+65-69,No,No,22.15,No,Very good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+Age 50 to 54,Yes,No,35.87,No,Very good,No,No,No,"Multiracial, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 60 to 64,Yes,No,28.73,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+Age 45 to 49,No,Yes,28.06,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,3.0,Never smoked,No,2022
+60-64,No,No,26.79,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+55-59,No,No,33.89,No,Very good,Yes,No,Yes,White,Male,No,3.0,No,No,2020
+35-39,Yes,No,33.0,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 50 to 54,Yes,Yes,39.48,No,Good,No,No,Yes,"Black only, Non-Hispanic",Female,No,4.0,Current smoker - now smokes every day,No,2022
+40-44,No,Yes,48.81,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+35-39,No,No,27.8,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+65-69,No,No,24.83,No,Excellent,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 65 to 69,No,Yes,32.1,Yes,Fair,Yes,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,Yes,2022
+75-79,No,No,30.29,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 50 to 54,No,No,24.96,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 65 to 69,Yes,No,27.12,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+80 or older,No,No,28.75,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 70 to 74,Yes,No,29.68,No,Poor,No,Yes,Yes,"White only, Non-Hispanic",Male,Yes,6.0,Former smoker,No,2022
+Age 40 to 44,Yes,Yes,25.79,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+25-29,Yes,No,23.69,No,Very good,No,No,Yes,Other,Male,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,29.05,No,Very good,Yes,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Current smoker - now smokes every day,No,2022
+18-24,Yes,No,30.13,No,Good,No,No,Yes,Other,Male,No,8.0,No,No,2020
+55-59,No,Yes,22.85,No,Very good,No,No,Yes,White,Female,Yes,7.0,Yes,No,2020
+Age 75 to 79,Yes,No,22.87,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+75-79,No,No,28.28,No,Poor,Yes,No,No,American Indian/Alaskan Native,Female,No,12.0,Yes,No,2020
+25-29,No,No,30.24,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+35-39,Yes,No,24.33,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+18-24,No,No,24.56,No,Excellent,No,No,No,Hispanic,Female,No,8.0,No,No,2020
+Age 18 to 24,Yes,No,19.37,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+70-74,No,No,36.02,No,Very good,No,No,No,White,Male,No,8.0,Yes,No,2020
+70-74,Yes,No,16.46,No,Poor,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+18-24,No,No,23.3,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 50 to 54,Yes,No,24.46,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+50-54,No,No,54.64,No,Fair,No,No,No,Black,Female,No,5.0,No,No,2020
+55-59,No,No,26.87,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+80 or older,No,No,27.46,No,Good,No,No,Yes,White,Female,No,7.0,No,No,2020
+25-29,No,No,33.66,No,Excellent,No,No,No,Hispanic,Female,No,8.0,No,No,2020
+70-74,Yes,No,22.96,No,Very good,No,No,Yes,White,Male,Yes,9.0,No,No,2020
+Age 30 to 34,Yes,No,20.92,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 18 to 24,Yes,Yes,27.12,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+60-64,No,No,31.8,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+35-39,No,No,28.06,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+18-24,No,No,22.14,No,Very good,No,No,Yes,White,Female,No,5.0,No,No,2020
+Age 18 to 24,Yes,Yes,32.08,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,7.0,Current smoker - now smokes some days,No,2022
+80 or older,No,No,23.62,No,Fair,No,No,No,White,Female,No,6.0,Yes,No,2020
+45-49,No,No,23.49,No,Excellent,No,No,Yes,Asian,Male,No,8.0,No,No,2020
+Age 45 to 49,Yes,No,37.49,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+50-54,No,No,26.58,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 30 to 34,No,No,45.73,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 50 to 54,Yes,No,30.67,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Current smoker - now smokes every day,No,2022
+50-54,No,No,24.87,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+18-24,No,No,21.73,No,Very good,No,No,Yes,White,Female,No,5.0,Yes,No,2020
+70-74,Yes,No,25.82,No,Good,No,No,Yes,White,Male,Yes,8.0,Yes,No,2020
+35-39,No,No,32.28,Yes,Poor,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+50-54,No,No,37.44,No,Fair,No,No,Yes,American Indian/Alaskan Native,Male,No,6.0,Yes,No,2020
+25-29,No,No,17.49,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 55 to 59,No,No,25.85,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+18-24,No,No,22.24,No,Very good,No,No,Yes,Other,Male,No,8.0,No,No,2020
+Age 80 or older,Yes,No,21.46,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,10.0,Never smoked,No,2022
+55-59,No,No,40.06,Yes,Good,Yes,No,No,American Indian/Alaskan Native,Male,No,7.0,No,No,2020
+Age 40 to 44,No,Yes,24.03,No,Very good,No,No,Yes,Hispanic,Female,No,8.0,Current smoker - now smokes some days,No,2022
+55-59,No,No,26.63,No,Excellent,No,No,Yes,Hispanic,Male,No,7.0,No,No,2020
+Age 40 to 44,No,No,30.11,No,Good,No,No,Yes,Hispanic,Female,No,9.0,Never smoked,No,2022
+45-49,No,No,27.46,Yes,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+25-29,No,No,23.91,No,Excellent,No,No,Yes,Black,Female,No,6.0,No,No,2020
+Age 30 to 34,Yes,No,26.61,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,25.1,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+25-29,No,Yes,20.92,No,Very good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 60 to 64,No,No,35.44,No,Good,No,No,No,"White only, Non-Hispanic",Male,Yes,5.0,Never smoked,No,2022
+Age 25 to 29,Yes,No,27.37,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+55-59,No,No,27.89,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+60-64,No,No,21.25,No,Good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+70-74,No,No,28.74,No,Very good,Yes,No,Yes,White,Male,No,8.0,Yes,No,2020
+45-49,No,No,37.66,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 65 to 69,Yes,No,40.01,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 30 to 34,No,No,23.78,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+Age 60 to 64,No,No,28.37,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 60 to 64,No,No,36.62,Yes,Good,No,No,No,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+Age 60 to 64,Yes,No,38.27,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,Yes,2022
+60-64,No,No,23.17,Yes,Fair,No,No,Yes,Other,Female,No,9.0,Yes,No,2020
+80 or older,No,No,24.69,No,Very good,No,No,No,White,Female,No,7.0,No,No,2020
+65-69,No,No,25.8,No,Good,Yes,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 18 to 24,Yes,No,23.44,No,Very good,No,No,Yes,Hispanic,Male,No,5.0,Never smoked,No,2022
+65-69,No,No,23.96,No,Very good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+Age 55 to 59,Yes,No,26.45,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,5.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,27.27,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,5.0,Current smoker - now smokes every day,No,2022
+65-69,No,No,40.74,No,Good,No,No,No,Other,Female,No,6.0,No,No,2020
+Age 45 to 49,Yes,No,33.0,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+75-79,No,No,30.92,Yes,Excellent,No,No,Yes,White,Male,No,24.0,No,No,2020
+Age 70 to 74,Yes,Yes,25.07,No,Fair,Yes,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Current smoker - now smokes every day,No,2022
+Age 65 to 69,No,No,27.89,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 75 to 79,Yes,No,26.97,No,Fair,No,No,Yes,"White only, Non-Hispanic",Male,Yes,8.0,Never smoked,No,2022
+18-24,No,No,19.26,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 70 to 74,Yes,Yes,25.84,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,8.0,Former smoker,No,2022
+Age 18 to 24,No,No,29.05,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+35-39,No,No,27.34,No,Very good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+80 or older,No,No,25.1,Yes,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 65 to 69,Yes,No,25.83,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+80 or older,No,No,24.37,Yes,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 70 to 74,Yes,No,22.92,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+70-74,No,No,25.23,Yes,Very good,No,No,Yes,White,Female,No,9.0,No,No,2020
+Age 65 to 69,No,Yes,40.35,"No, pre-diabetes or borderline diabetes",Good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+50-54,No,Yes,22.6,No,Poor,Yes,No,No,White,Male,No,6.0,Yes,No,2020
+55-59,No,No,27.12,No,Excellent,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+80 or older,No,No,29.95,No,Good,Yes,No,Yes,White,Male,No,7.0,No,No,2020
+Age 25 to 29,No,No,22.6,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 65 to 69,No,No,25.1,No,Excellent,No,No,No,"Black only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 25 to 29,Yes,No,25.83,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+60-64,No,No,26.37,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+35-39,No,No,30.23,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+25-29,No,No,35.87,No,Fair,No,No,Yes,White,Female,No,5.0,No,No,2020
+50-54,No,No,23.41,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+25-29,No,No,26.83,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 60 to 64,No,No,31.14,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+Age 60 to 64,Yes,No,32.98,No,Good,No,No,Yes,"Black only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+40-44,No,No,21.63,No,Good,No,No,Yes,White,Female,No,12.0,No,No,2020
+70-74,No,No,27.46,No,Fair,No,No,No,White,Female,No,5.0,Yes,No,2020
+70-74,No,Yes,34.33,No,Good,No,No,No,Hispanic,Female,No,8.0,Yes,No,2020
+Age 45 to 49,No,No,14.5,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+70-74,No,No,22.6,No,Very good,No,No,No,White,Male,No,5.0,Yes,No,2020
+Age 45 to 49,Yes,No,25.06,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 75 to 79,Yes,No,18.79,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+Age 65 to 69,Yes,Yes,26.83,Yes,Fair,Yes,No,Yes,"Other race only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 65 to 69,Yes,Yes,33.45,"No, pre-diabetes or borderline diabetes",Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,Yes,2022
+Age 25 to 29,No,No,19.75,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+60-64,No,No,23.81,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,25.75,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+55-59,No,Yes,42.72,Yes,Good,Yes,No,Yes,White,Male,Yes,7.0,No,No,2020
+18-24,No,No,22.31,No,Fair,No,No,No,Hispanic,Male,No,7.0,No,No,2020
+75-79,No,No,49.81,No,Very good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+40-44,No,No,23.44,No,Very good,No,No,Yes,White,Female,No,9.0,No,No,2020
+Age 65 to 69,Yes,Yes,26.32,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+Age 45 to 49,Yes,No,36.62,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+65-69,No,No,33.28,No,Good,No,No,Yes,White,Female,No,5.0,No,No,2020
+40-44,No,No,27.12,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+30-34,No,No,45.35,Yes,Good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+40-44,No,No,31.89,No,Fair,No,No,Yes,Black,Female,No,5.0,Yes,No,2020
+Age 65 to 69,No,No,32.98,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+35-39,No,No,22.05,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 60 to 64,Yes,No,25.75,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,Yes,7.0,Never smoked,No,2022
+55-59,No,No,28.59,No,Excellent,No,No,Yes,Black,Male,No,6.0,No,No,2020
+70-74,No,Yes,24.62,No,Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+18-24,No,No,29.84,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 70 to 74,No,No,28.75,Yes,Poor,No,Yes,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,Yes,2022
+18-24,No,Yes,25.83,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+45-49,No,Yes,22.46,No,Very good,No,No,Yes,White,Female,Yes,7.0,No,No,2020
+Age 55 to 59,No,Yes,26.54,No,Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+25-29,No,No,38.65,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 80 or older,Yes,No,23.96,No,Fair,Yes,No,Yes,"White only, Non-Hispanic",Female,Yes,6.0,Former smoker,No,2022
+Age 25 to 29,Yes,No,23.91,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+18-24,No,No,24.87,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,33.72,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,7.0,Former smoker,No,2022
+60-64,No,No,24.13,No,Very good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+Age 65 to 69,No,No,27.98,No,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+55-59,No,No,26.61,Yes,Fair,No,No,No,Hispanic,Male,No,10.0,Yes,No,2020
+25-29,No,Yes,34.69,No,Very good,No,No,Yes,Black,Male,No,8.0,Yes,No,2020
+65-69,No,No,22.5,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 35 to 39,No,No,18.13,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,26.83,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+18-24,No,Yes,23.73,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+65-69,No,No,28.19,Yes,Good,No,No,Yes,Black,Female,No,7.0,No,No,2020
+50-54,No,No,25.39,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+50-54,No,No,25.68,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+25-29,No,No,20.53,No,Excellent,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+Age 80 or older,No,No,34.46,Yes,Very good,No,No,Yes,Hispanic,Male,No,6.0,Former smoker,No,2022
+Age 18 to 24,No,No,31.01,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+80 or older,No,No,22.85,No,Good,Yes,No,Yes,White,Female,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,30.34,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 35 to 39,No,No,23.73,No,Good,No,No,No,"Black only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+55-59,No,No,26.54,No,Excellent,No,No,Yes,Black,Male,No,8.0,No,No,2020
+Age 65 to 69,Yes,No,21.14,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,10.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,23.71,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,Yes,7.0,Never smoked,No,2022
+Age 65 to 69,No,No,23.52,No,Good,No,No,Yes,Hispanic,Female,No,7.0,Never smoked,No,2022
+40-44,No,No,26.61,No,Excellent,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+60-64,No,No,23.4,No,Good,No,No,No,Asian,Male,No,7.0,No,No,2020
+30-34,No,No,41.2,No,Good,No,No,Yes,Black,Female,No,4.0,No,No,2020
+60-64,No,No,21.95,No,Excellent,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+55-59,No,No,34.44,No,Good,Yes,No,Yes,White,Male,No,8.0,Yes,No,2020
+30-34,No,No,30.95,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+30-34,No,Yes,29.13,No,Excellent,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+65-69,No,Yes,32.61,No,Good,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 50 to 54,No,No,32.89,No,Excellent,No,No,No,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 18 to 24,Yes,No,26.58,No,Excellent,No,No,Yes,"Other race only, Non-Hispanic",Male,No,5.0,Current smoker - now smokes some days,No,2022
+Age 40 to 44,Yes,No,32.82,Yes,Good,No,No,Yes,Hispanic,Male,No,6.0,Never smoked,No,2022
+50-54,No,No,25.68,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+55-59,No,No,32.69,"No, borderline diabetes",Good,No,No,Yes,Other,Male,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,25.11,No,Excellent,No,No,Yes,Hispanic,Male,No,7.0,Never smoked,No,2022
+Age 65 to 69,No,No,27.46,No,Good,Yes,No,Yes,Hispanic,Male,No,8.0,Never smoked,No,2022
+Age 60 to 64,Yes,Yes,21.46,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+40-44,No,No,28.89,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 75 to 79,No,No,27.55,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+60-64,No,No,37.75,Yes,Fair,No,No,No,White,Male,No,6.0,Yes,No,2020
+18-24,No,Yes,21.83,No,Very good,No,No,No,White,Male,No,4.0,No,No,2020
+Age 35 to 39,No,No,38.62,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+70-74,No,No,25.11,No,Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+65-69,No,No,37.76,No,Good,No,No,Yes,Black,Female,No,6.0,No,No,2020
+65-69,No,No,24.21,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+50-54,No,No,24.56,No,Good,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+Age 70 to 74,No,No,28.12,No,Fair,No,Yes,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 60 to 64,No,No,28.37,No,Excellent,No,No,No,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+25-29,No,No,27.26,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 55 to 59,Yes,No,23.03,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+80 or older,No,No,25.37,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 35 to 39,Yes,No,29.84,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+45-49,No,No,24.13,No,Good,No,No,Yes,Black,Male,No,7.0,Yes,No,2020
+Age 65 to 69,Yes,No,19.74,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,Yes,8.0,Never smoked,No,2022
+Age 35 to 39,No,No,31.32,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+45-49,No,No,34.31,No,Fair,No,No,Yes,White,Male,No,3.0,Yes,No,2020
+75-79,No,No,25.39,Yes,Good,No,No,No,White,Female,No,8.0,Yes,No,2020
+60-64,No,No,32.08,No,Excellent,No,No,No,White,Male,No,6.0,Yes,No,2020
+Age 30 to 34,Yes,No,27.37,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+25-29,No,No,38.27,No,Excellent,No,No,No,Black,Female,No,9.0,No,No,2020
+Age 60 to 64,No,No,29.95,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+80 or older,No,No,22.13,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+70-74,No,No,28.8,Yes,Good,No,No,Yes,White,Male,Yes,7.0,Yes,No,2020
+Age 55 to 59,Yes,No,31.38,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Current smoker - now smokes every day,No,2022
+80 or older,No,No,30.04,No,Good,No,No,No,White,Female,No,6.0,Yes,No,2020
+80 or older,No,Yes,24.96,No,Good,Yes,No,Yes,White,Male,No,8.0,No,No,2020
+Age 55 to 59,Yes,No,25.09,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+25-29,No,No,33.38,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+45-49,Yes,Yes,28.97,No,Good,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+Age 50 to 54,No,No,38.39,Yes,Good,No,No,Yes,Hispanic,Male,No,8.0,Former smoker,No,2022
+70-74,No,No,28.8,Yes,Good,No,No,Yes,Black,Female,No,7.0,No,No,2020
+Age 60 to 64,No,No,30.11,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+55-59,No,No,23.91,No,Very good,No,No,Yes,Other,Female,No,9.0,No,No,2020
+65-69,No,No,32.92,Yes,Good,No,No,No,Black,Female,No,7.0,No,No,2020
+Age 75 to 79,No,No,29.29,Yes,Good,No,No,No,"Other race only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 65 to 69,Yes,No,29.41,Yes,Good,No,Yes,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+70-74,No,No,29.87,No,Very good,No,No,Yes,White,Female,Yes,8.0,No,No,2020
+45-49,No,No,26.5,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+80 or older,No,Yes,24.69,Yes,Good,No,No,No,White,Female,No,8.0,No,No,2020
+60-64,No,No,27.37,No,Good,No,No,Yes,Asian,Male,No,6.0,Yes,No,2020
+Age 80 or older,No,No,25.81,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+40-44,No,No,40.69,No,Excellent,No,No,Yes,Hispanic,Male,No,8.0,No,No,2020
+35-39,No,No,46.06,No,Good,No,No,Yes,White,Female,No,5.0,Yes,No,2020
+40-44,No,No,20.18,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+75-79,No,Yes,25.06,No,Fair,Yes,No,No,Black,Female,No,6.0,No,No,2020
+Age 70 to 74,No,No,23.09,No,Poor,Yes,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+Age 70 to 74,No,No,34.87,No,Fair,No,No,No,"Black only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+75-79,No,No,17.58,No,Good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+75-79,No,No,25.92,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+30-34,No,No,30.85,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+65-69,No,No,26.72,No,Excellent,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 65 to 69,Yes,No,25.02,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Current smoker - now smokes every day,No,2022
+50-54,No,Yes,31.87,No,Fair,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 55 to 59,No,Yes,32.92,Yes,Fair,No,Yes,No,Hispanic,Female,No,8.0,Former smoker,No,2022
+75-79,No,No,29.66,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 45 to 49,Yes,No,29.05,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+55-59,Yes,No,26.78,No,Very good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+45-49,No,No,34.37,"No, borderline diabetes",Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 18 to 24,Yes,No,23.71,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+75-79,No,No,24.96,No,Very good,No,No,Yes,White,Female,No,6.0,Yes,Yes,2020
+80 or older,No,No,22.04,No,Very good,No,No,Yes,White,Male,No,7.0,No,Yes,2020
+18-24,No,No,20.07,No,Very good,No,No,Yes,White,Male,No,9.0,No,No,2020
+Age 45 to 49,Yes,No,31.25,No,Good,No,No,Yes,Hispanic,Male,No,8.0,Never smoked,No,2022
+40-44,No,No,31.66,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 75 to 79,No,No,25.25,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 30 to 34,No,No,23.63,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+Age 70 to 74,Yes,No,25.1,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+Age 30 to 34,Yes,Yes,26.57,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+40-44,No,No,21.7,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 60 to 64,No,No,22.46,No,Fair,No,No,No,Hispanic,Female,No,7.0,Former smoker,No,2022
+Age 70 to 74,Yes,No,26.63,No,Very good,No,No,No,"White only, Non-Hispanic",Male,Yes,6.0,Never smoked,No,2022
+Age 55 to 59,No,No,30.29,No,Good,No,Yes,No,Hispanic,Female,No,4.0,Current smoker - now smokes every day,No,2022
+Age 65 to 69,No,Yes,39.11,No,Fair,No,Yes,No,"White only, Non-Hispanic",Female,No,5.0,Former smoker,No,2022
+Age 18 to 24,No,No,22.78,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 65 to 69,Yes,No,25.84,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+25-29,No,No,25.51,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+60-64,No,No,28.7,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 35 to 39,Yes,No,42.97,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+50-54,No,No,29.53,No,Good,No,No,Yes,Hispanic,Male,No,6.0,Yes,No,2020
+80 or older,No,No,35.53,Yes,Very good,No,No,Yes,White,Female,No,8.0,Yes,Yes,2020
+Age 35 to 39,Yes,Yes,32.1,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+75-79,No,Yes,26.75,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 70 to 74,Yes,No,18.48,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+75-79,Yes,No,24.8,No,Very good,No,No,Yes,Black,Female,No,10.0,No,No,2020
+75-79,No,No,26.45,"No, borderline diabetes",Good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 25 to 29,Yes,No,17.22,No,Poor,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 40 to 44,Yes,No,29.05,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 80 or older,Yes,No,40.42,Yes,Fair,No,Yes,No,"White only, Non-Hispanic",Male,No,10.0,Former smoker,Yes,2022
+Age 18 to 24,Yes,No,28.46,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,3.0,Never smoked,No,2022
+25-29,No,No,27.91,No,Very good,No,No,No,White,Male,No,9.0,No,No,2020
+70-74,No,No,35.43,No,Good,No,No,No,Hispanic,Female,No,8.0,No,No,2020
+Age 50 to 54,No,Yes,23.49,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+45-49,Yes,Yes,29.41,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+45-49,No,Yes,29.53,No,Good,No,No,No,Hispanic,Male,No,6.0,No,No,2020
+35-39,No,No,35.43,No,Good,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+55-59,No,No,21.79,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 40 to 44,Yes,No,33.0,"No, pre-diabetes or borderline diabetes",Good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+70-74,No,No,26.85,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 65 to 69,No,No,33.91,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+30-34,No,No,16.73,No,Excellent,No,No,Yes,White,Male,No,5.0,No,No,2020
+18-24,No,Yes,30.18,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 70 to 74,No,No,28.8,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,31.32,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+50-54,No,No,26.31,No,Excellent,No,No,Yes,Asian,Male,No,9.0,No,No,2020
+Age 40 to 44,Yes,No,28.37,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 50 to 54,No,No,24.39,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+55-59,No,No,20.36,Yes,Fair,No,No,Yes,Hispanic,Female,No,8.0,No,No,2020
+Age 65 to 69,Yes,No,31.38,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+55-59,No,No,31.19,No,Good,No,No,No,White,Male,No,6.0,Yes,No,2020
+50-54,No,No,30.52,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+60-64,No,No,47.94,No,Fair,No,No,Yes,White,Female,No,4.0,Yes,No,2020
+Age 75 to 79,Yes,No,24.8,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+35-39,No,No,24.37,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+45-49,No,No,20.22,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 65 to 69,Yes,No,25.1,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+45-49,No,Yes,38.75,No,Excellent,No,No,Yes,Black,Male,No,7.0,No,No,2020
+45-49,No,No,18.31,No,Good,No,No,No,White,Male,No,8.0,Yes,No,2020
+25-29,No,No,26.0,No,Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+60-64,No,No,22.6,No,Very good,No,No,Yes,White,Female,Yes,7.0,Yes,No,2020
+Age 65 to 69,Yes,No,19.94,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+Age 55 to 59,Yes,No,20.36,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+Age 30 to 34,Yes,No,24.13,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 55 to 59,No,No,30.3,Yes,Good,No,No,Yes,"Other race only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+55-59,Yes,No,28.25,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+45-49,No,No,29.04,Yes,Very good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+Age 35 to 39,Yes,No,43.9,No,Fair,No,No,Yes,Hispanic,Female,No,10.0,Former smoker,No,2022
+Age 65 to 69,Yes,No,29.16,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+50-54,No,Yes,28.7,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+45-49,No,No,30.13,No,Good,No,No,No,Hispanic,Male,No,7.0,Yes,No,2020
+75-79,No,No,31.75,Yes,Good,No,No,No,White,Female,No,8.0,No,No,2020
+Age 80 or older,Yes,No,31.25,Yes,Fair,Yes,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+Age 70 to 74,Yes,No,27.99,Yes,Good,No,No,No,"Other race only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 65 to 69,Yes,Yes,27.41,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+25-29,No,No,14.82,No,Good,No,No,Yes,Asian,Male,No,6.0,No,No,2020
+40-44,No,No,29.18,No,Excellent,No,No,Yes,Hispanic,Male,No,6.0,No,No,2020
+70-74,No,No,36.28,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+18-24,No,No,26.61,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+65-69,No,No,36.58,No,Very good,No,No,Yes,White,Female,No,9.0,Yes,No,2020
+18-24,No,No,23.12,No,Fair,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 40 to 44,Yes,No,28.34,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 25 to 29,Yes,No,50.48,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+60-64,No,No,21.9,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 60 to 64,No,No,37.31,No,Good,No,No,No,Hispanic,Male,No,7.0,Former smoker,No,2022
+Age 70 to 74,Yes,No,27.46,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+65-69,Yes,No,35.26,"No, borderline diabetes",Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 30 to 34,No,No,33.47,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 55 to 59,Yes,No,34.84,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,6.0,Current smoker - now smokes every day,No,2022
+Age 45 to 49,No,No,31.25,No,Excellent,No,No,Yes,Hispanic,Female,No,7.0,Never smoked,No,2022
+35-39,No,No,25.85,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+55-59,No,No,29.29,No,Very good,No,No,No,White,Female,No,7.0,No,No,2020
+Age 80 or older,Yes,No,24.79,No,Fair,No,Yes,Yes,"White only, Non-Hispanic",Male,Yes,8.0,Former smoker,No,2022
+45-49,No,No,62.3,No,Poor,No,Yes,No,Hispanic,Female,No,8.0,No,No,2020
+30-34,No,No,35.87,No,Good,No,No,Yes,Other,Male,No,7.0,No,No,2020
+70-74,No,No,29.16,No,Very good,No,No,Yes,Other,Male,Yes,8.0,No,No,2020
+65-69,No,No,30.67,"No, borderline diabetes",Good,No,No,Yes,White,Female,No,6.0,No,No,2020
+70-74,No,No,25.1,No,Fair,Yes,Yes,Yes,White,Male,No,10.0,No,No,2020
+80 or older,No,No,29.18,Yes,Very good,No,No,No,White,Female,Yes,8.0,No,No,2020
+70-74,No,No,23.39,Yes,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 55 to 59,No,No,34.44,Yes,Good,No,No,Yes,"Black only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+18-24,No,No,21.14,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 70 to 74,No,Yes,29.05,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+50-54,No,No,30.73,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+30-34,No,No,22.81,No,Excellent,No,No,Yes,White,Female,No,4.0,Yes,No,2020
+Age 80 or older,No,No,23.75,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+40-44,No,No,39.33,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+70-74,No,No,29.05,Yes,Poor,Yes,No,No,Asian,Female,No,8.0,No,Yes,2020
+70-74,No,No,28.62,No,Excellent,No,No,Yes,White,Male,No,9.0,Yes,No,2020
+50-54,No,Yes,35.62,No,Very good,No,No,Yes,White,Female,Yes,6.0,No,No,2020
+65-69,No,No,31.28,No,Very good,No,No,Yes,White,Female,No,9.0,No,No,2020
+Age 30 to 34,Yes,No,27.17,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,5.0,Current smoker - now smokes some days,No,2022
+Age 55 to 59,No,No,25.09,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 35 to 39,Yes,No,27.8,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+65-69,No,No,26.85,No,Fair,No,No,Yes,Black,Male,No,8.0,No,No,2020
+60-64,No,No,28.7,No,Excellent,Yes,No,Yes,Other,Male,No,8.0,No,No,2020
+Age 30 to 34,Yes,No,36.62,Yes,Very good,No,Yes,Yes,Hispanic,Male,No,7.0,Former smoker,No,2022
+18-24,No,No,29.68,No,Excellent,No,No,Yes,Asian,Male,No,8.0,No,No,2020
+Age 45 to 49,No,No,39.87,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,32.55,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+18-24,No,No,23.71,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 50 to 54,Yes,Yes,23.71,No,Good,No,No,No,"Black only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+70-74,No,No,30.9,No,Good,No,No,Yes,White,Female,No,5.0,No,No,2020
+65-69,No,Yes,27.46,No,Good,No,No,No,Asian,Female,No,6.0,No,No,2020
+70-74,No,No,32.78,No,Poor,No,No,No,White,Male,Yes,7.0,Yes,No,2020
+Age 40 to 44,Yes,No,33.89,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,9.0,Never smoked,No,2022
+Age 40 to 44,No,No,28.35,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Current smoker - now smokes every day,No,2022
+Age 75 to 79,No,No,25.4,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+60-64,Yes,No,22.96,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 65 to 69,No,No,30.34,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+60-64,No,Yes,22.89,No,Very good,No,No,Yes,Hispanic,Female,No,8.0,Yes,No,2020
+80 or older,No,No,20.9,Yes,Excellent,No,No,Yes,White,Female,Yes,7.0,No,Yes,2020
+45-49,No,Yes,32.89,Yes,Good,No,No,No,White,Male,No,6.0,No,No,2020
+18-24,No,No,28.8,No,Very good,No,No,Yes,Black,Male,No,6.0,No,No,2020
+40-44,No,No,27.37,No,Fair,No,No,Yes,White,Male,No,7.0,No,No,2020
+80 or older,No,No,33.38,No,Very good,No,No,No,White,Male,No,9.0,No,No,2020
+Age 65 to 69,No,No,25.09,Yes,Good,No,No,Yes,Hispanic,Male,No,6.0,Never smoked,No,2022
+18-24,No,No,25.06,No,Very good,No,No,Yes,White,Female,No,9.0,No,No,2020
+30-34,No,No,26.57,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 18 to 24,No,Yes,39.16,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,10.0,Never smoked,No,2022
+Age 25 to 29,Yes,No,28.9,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 18 to 24,Yes,Yes,23.01,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+75-79,No,No,23.62,Yes,Fair,No,No,Yes,Other,Female,No,6.0,No,No,2020
+45-49,No,No,24.21,No,Good,No,No,No,Hispanic,Male,No,8.0,No,No,2020
+70-74,No,No,22.35,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+65-69,No,No,33.66,No,Very good,Yes,No,Yes,White,Female,Yes,7.0,No,No,2020
+65-69,No,No,22.35,No,Excellent,No,No,Yes,Other,Male,No,3.0,No,No,2020
+Age 60 to 64,No,No,30.67,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+45-49,No,No,29.53,No,Very good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 45 to 49,Yes,Yes,22.6,No,Very good,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Current smoker - now smokes every day,No,2022
+60-64,No,No,23.3,No,Excellent,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 65 to 69,Yes,No,31.32,Yes,Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,9.0,Former smoker,No,2022
+18-24,No,No,18.31,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 40 to 44,No,No,34.46,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 35 to 39,No,No,25.68,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+65-69,No,No,21.7,No,Very good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+18-24,No,No,21.26,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+50-54,Yes,No,30.67,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,26.61,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+25-29,No,No,33.09,No,Fair,No,No,Yes,White,Female,No,8.0,No,No,2020
+70-74,No,No,23.23,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 25 to 29,Yes,No,30.13,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,4.0,Former smoker,No,2022
+60-64,No,No,26.5,No,Excellent,No,No,Yes,White,Male,Yes,8.0,No,No,2020
+80 or older,No,No,21.87,No,Very good,No,No,Yes,White,Female,Yes,8.0,No,Yes,2020
+Age 75 to 79,No,No,26.58,No,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 50 to 54,Yes,No,27.04,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+18-24,No,Yes,35.78,No,Very good,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+Age 70 to 74,No,No,27.89,Yes,Fair,No,No,Yes,Hispanic,Male,No,8.0,Former smoker,No,2022
+60-64,No,No,41.6,No,Fair,No,No,No,White,Male,No,6.0,No,Yes,2020
+75-79,No,No,28.34,No,Fair,No,No,No,White,Female,Yes,7.0,Yes,No,2020
+60-64,No,No,33.64,Yes,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 25 to 29,Yes,No,23.73,No,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 75 to 79,Yes,No,19.49,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,Yes,7.0,Never smoked,No,2022
+35-39,No,No,21.79,No,Very good,Yes,No,Yes,White,Female,No,7.0,No,No,2020
+65-69,No,No,33.45,No,Very good,No,No,No,White,Male,No,7.0,No,No,2020
+80 or older,No,No,27.12,No,Good,Yes,No,No,White,Male,No,10.0,Yes,Yes,2020
+35-39,No,No,33.96,No,Very good,No,No,No,White,Male,No,8.0,No,No,2020
+Age 18 to 24,Yes,No,38.79,No,Good,No,No,Yes,Hispanic,Male,No,6.0,Never smoked,No,2022
+55-59,No,No,22.89,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+80 or older,No,Yes,27.59,No,Fair,Yes,No,Yes,White,Female,No,6.0,Yes,Yes,2020
+Age 45 to 49,No,No,23.24,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 18 to 24,No,No,28.32,No,Excellent,No,No,No,"White only, Non-Hispanic",Female,No,5.0,Never smoked,No,2022
+Age 75 to 79,Yes,No,26.39,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+45-49,No,No,24.96,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 30 to 34,No,No,22.68,No,Fair,No,Yes,No,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+Age 25 to 29,Yes,No,25.75,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+Age 40 to 44,No,No,22.67,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+50-54,No,No,25.77,No,Very good,No,No,Yes,Hispanic,Male,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,28.34,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 80 or older,No,No,29.65,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,9.0,Former smoker,No,2022
+35-39,Yes,No,30.52,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,29.05,"No, pre-diabetes or borderline diabetes",Good,No,No,Yes,"Black only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 75 to 79,Yes,No,24.37,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+25-29,No,No,33.96,No,Good,No,No,Yes,Asian,Male,No,6.0,No,No,2020
+Age 25 to 29,Yes,No,31.62,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+40-44,No,No,36.32,No,Very good,No,No,No,White,Female,No,3.0,Yes,No,2020
+65-69,No,No,17.38,"No, borderline diabetes",Good,No,No,Yes,White,Female,No,6.0,No,No,2020
+50-54,No,Yes,39.87,No,Fair,No,Yes,Yes,White,Female,No,7.0,Yes,No,2020
+Age 75 to 79,Yes,No,19.58,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,9.0,Former smoker,No,2022
+50-54,Yes,No,24.37,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+65-69,No,No,29.85,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+50-54,No,No,43.91,Yes,Good,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 55 to 59,Yes,Yes,27.89,No,Good,No,No,Yes,"Multiracial, Non-Hispanic",Female,No,6.0,Current smoker - now smokes every day,No,2022
+60-64,No,No,24.81,Yes,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 45 to 49,Yes,No,25.83,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,5.0,Never smoked,No,2022
+30-34,No,No,25.84,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+70-74,No,No,27.44,No,Very good,No,No,Yes,White,Female,Yes,7.0,No,No,2020
+50-54,No,No,29.68,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 60 to 64,Yes,No,25.11,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+55-59,No,Yes,28.74,No,Very good,No,No,Yes,Black,Female,No,7.0,Yes,No,2020
+65-69,No,Yes,55.35,Yes,Poor,Yes,Yes,No,Black,Male,No,6.0,No,No,2020
+Age 40 to 44,No,Yes,36.39,No,Fair,No,No,Yes,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 65 to 69,Yes,No,23.24,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+55-59,No,No,24.86,Yes,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 45 to 49,No,Yes,58.95,No,Fair,No,No,Yes,Hispanic,Female,No,6.0,Never smoked,No,2022
+60-64,No,Yes,30.68,No,Good,No,No,No,White,Male,No,8.0,No,No,2020
+55-59,No,No,31.19,No,Good,No,No,Yes,White,Female,Yes,7.0,No,No,2020
+65-69,No,No,44.29,Yes,Very good,No,No,No,White,Female,No,9.0,No,No,2020
+Age 55 to 59,Yes,No,24.69,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 80 or older,No,Yes,24.96,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+80 or older,No,No,19.84,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 18 to 24,Yes,Yes,26.63,No,Good,No,No,Yes,Hispanic,Male,No,6.0,Never smoked,No,2022
+60-64,No,No,33.47,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 55 to 59,No,No,28.34,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Current smoker - now smokes some days,No,2022
+30-34,No,No,29.66,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+75-79,No,No,28.9,Yes,Fair,No,No,No,Hispanic,Female,No,6.0,No,No,2020
+25-29,No,No,28.19,No,Very good,No,No,Yes,American Indian/Alaskan Native,Male,No,10.0,Yes,No,2020
+Age 50 to 54,Yes,No,25.06,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Current smoker - now smokes every day,No,2022
+65-69,No,No,18.42,No,Fair,No,No,Yes,Black,Female,No,8.0,Yes,No,2020
+45-49,No,No,24.39,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 18 to 24,No,No,28.29,No,Very good,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+70-74,No,Yes,27.26,Yes,Poor,No,No,No,White,Male,No,8.0,Yes,No,2020
+50-54,No,No,29.29,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+Age 70 to 74,No,No,25.7,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,Yes,6.0,Former smoker,No,2022
+18-24,No,Yes,21.7,No,Very good,No,No,No,Asian,Male,No,8.0,No,No,2020
+Age 60 to 64,No,No,17.47,Yes,Fair,Yes,Yes,No,"White only, Non-Hispanic",Female,No,8.0,Never smoked,Yes,2022
+60-64,No,Yes,37.93,No,Poor,Yes,No,Yes,White,Male,No,9.0,No,No,2020
+45-49,No,No,29.03,No,Good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+30-34,No,No,25.79,No,Good,No,No,Yes,White,Male,No,5.0,Yes,No,2020
+50-54,No,No,28.7,No,Fair,No,No,No,White,Male,No,6.0,Yes,No,2020
+18-24,No,No,16.13,No,Good,No,No,No,Hispanic,Female,No,7.0,No,No,2020
+80 or older,No,No,23.57,No,Very good,No,No,No,White,Male,No,8.0,Yes,No,2020
+80 or older,No,No,26.61,No,Very good,No,No,No,White,Male,Yes,8.0,Yes,No,2020
+40-44,No,No,22.53,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 70 to 74,No,No,23.78,No,Fair,Yes,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,Yes,2022
+55-59,No,No,23.78,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 65 to 69,No,No,28.04,No,Very good,Yes,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 65 to 69,No,No,33.47,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,3.0,Never smoked,No,2022
+Age 70 to 74,No,No,33.47,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 60 to 64,No,No,31.09,Yes,Fair,No,No,No,"Other race only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 25 to 29,No,No,33.99,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+18-24,Yes,No,25.11,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+55-59,No,No,43.9,No,Very good,No,No,Yes,American Indian/Alaskan Native,Female,No,6.0,No,No,2020
+Age 40 to 44,Yes,Yes,25.79,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,25.82,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+55-59,No,No,24.03,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+65-69,No,No,21.38,Yes,Good,No,No,Yes,Black,Female,No,6.0,No,Yes,2020
+Age 35 to 39,Yes,No,25.1,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 45 to 49,No,No,21.93,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+55-59,No,No,36.59,No,Good,Yes,No,Yes,White,Male,Yes,6.0,Yes,No,2020
+50-54,No,No,35.87,Yes,Good,No,No,No,White,Male,No,6.0,No,No,2020
+45-49,No,No,25.77,Yes,Very good,No,Yes,Yes,White,Male,No,8.0,No,No,2020
+50-54,No,No,24.69,Yes,Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 75 to 79,No,No,31.25,Yes,Poor,No,Yes,No,Hispanic,Female,No,4.0,Never smoked,No,2022
+Age 35 to 39,Yes,No,27.59,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 50 to 54,Yes,No,28.7,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+75-79,No,No,24.56,No,Excellent,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+35-39,No,No,26.12,No,Good,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+60-64,No,No,31.87,No,Excellent,No,No,No,White,Male,No,8.0,No,No,2020
+Age 35 to 39,No,No,27.44,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+25-29,No,No,35.19,No,Good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+Age 18 to 24,No,No,29.6,No,Good,No,No,Yes,Hispanic,Male,No,6.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,20.34,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 75 to 79,No,Yes,37.79,Yes,Fair,Yes,Yes,No,"White only, Non-Hispanic",Female,No,10.0,Never smoked,No,2022
+75-79,No,No,40.14,Yes,Fair,No,Yes,Yes,Black,Male,No,6.0,Yes,No,2020
+65-69,No,No,26.58,No,Fair,No,No,No,White,Female,Yes,10.0,Yes,No,2020
+18-24,Yes,No,21.35,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+55-59,No,Yes,32.24,Yes,Very good,No,No,Yes,Hispanic,Female,No,16.0,No,No,2020
+45-49,No,No,32.49,No,Good,No,No,Yes,Hispanic,Male,No,7.0,Yes,No,2020
+Age 30 to 34,Yes,No,27.2,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Current smoker - now smokes every day,No,2022
+75-79,No,No,30.11,Yes,Good,No,No,No,White,Female,No,7.0,Yes,No,2020
+80 or older,No,No,23.71,No,Excellent,Yes,No,No,White,Male,No,8.0,Yes,No,2020
+Age 70 to 74,Yes,No,29.95,Yes,Good,No,No,No,Hispanic,Female,No,9.0,Former smoker,No,2022
+55-59,No,No,33.91,No,Very good,No,No,Yes,Hispanic,Male,No,7.0,No,No,2020
+25-29,Yes,No,28.19,No,Fair,No,No,Yes,White,Female,No,5.0,Yes,No,2020
+Age 55 to 59,No,Yes,15.82,"No, pre-diabetes or borderline diabetes",Excellent,Yes,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 65 to 69,No,No,12.44,No,Poor,No,No,No,"White only, Non-Hispanic",Female,No,10.0,Current smoker - now smokes some days,No,2022
+45-49,No,No,29.05,No,Good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+60-64,Yes,No,22.31,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+60-64,No,No,21.14,No,Very good,No,No,Yes,White,Female,Yes,7.0,No,No,2020
+55-59,No,No,30.04,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 70 to 74,Yes,No,25.46,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+Age 35 to 39,Yes,No,28.75,No,Excellent,No,No,Yes,"Black only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+25-29,No,No,22.15,No,Excellent,No,No,Yes,American Indian/Alaskan Native,Female,No,8.0,Yes,No,2020
+Age 50 to 54,Yes,Yes,23.05,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 35 to 39,Yes,No,29.84,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+Age 18 to 24,No,Yes,67.35,No,Good,No,No,Yes,Hispanic,Male,No,7.0,Never smoked,No,2022
+Age 40 to 44,No,No,27.73,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+65-69,No,No,35.19,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 80 or older,No,No,28.29,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+30-34,No,Yes,23.03,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+40-44,No,No,22.38,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+65-69,No,No,25.68,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+70-74,No,Yes,28.7,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 75 to 79,No,No,27.02,No,Fair,Yes,No,No,"White only, Non-Hispanic",Female,No,8.0,Never smoked,Yes,2022
+45-49,No,No,37.12,No,Fair,No,No,Yes,White,Female,No,7.0,No,No,2020
+45-49,No,No,34.06,No,Excellent,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+Age 30 to 34,Yes,No,23.73,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Current smoker - now smokes some days,No,2022
+25-29,No,No,21.29,No,Excellent,No,No,No,White,Male,No,7.0,No,No,2020
+30-34,No,No,33.91,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+75-79,No,Yes,27.46,No,Good,No,No,Yes,White,Female,No,10.0,No,No,2020
+Age 25 to 29,Yes,No,24.37,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+60-64,No,No,22.47,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+25-29,No,No,24.27,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+50-54,No,No,32.78,No,Very good,Yes,Yes,Yes,White,Male,No,6.0,No,No,2020
+65-69,No,Yes,31.57,No,Poor,Yes,No,No,Other,Male,No,8.0,No,Yes,2020
+Age 18 to 24,Yes,No,30.41,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+18-24,No,No,22.05,No,Very good,No,No,Yes,Hispanic,Male,No,7.0,No,No,2020
+60-64,No,No,29.53,Yes,Fair,Yes,No,Yes,White,Male,No,8.0,Yes,No,2020
+50-54,No,Yes,28.25,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+80 or older,No,No,20.9,No,Good,Yes,No,Yes,White,Female,Yes,7.0,Yes,Yes,2020
+18-24,No,No,29.76,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+65-69,No,No,22.86,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+65-69,No,No,37.49,Yes (during pregnancy),Fair,No,No,Yes,White,Female,No,7.0,No,No,2020
+40-44,Yes,No,24.68,No,Good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 75 to 79,No,No,27.8,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,9.0,Former smoker,No,2022
+Age 60 to 64,Yes,No,23.4,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 18 to 24,No,No,22.1,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+80 or older,No,No,23.67,Yes,Good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 50 to 54,Yes,Yes,30.54,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+35-39,No,No,44.48,No,Very good,No,No,No,White,Female,No,6.0,No,No,2020
+Age 50 to 54,Yes,No,21.08,No,Excellent,No,No,Yes,Hispanic,Male,No,5.0,Former smoker,No,2022
+Age 60 to 64,No,No,27.78,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Current smoker - now smokes some days,No,2022
+70-74,No,No,33.23,Yes,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 18 to 24,Yes,No,20.67,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,5.0,Never smoked,No,2022
+60-64,No,No,27.34,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 50 to 54,Yes,No,29.44,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,Yes,7.0,Never smoked,No,2022
+50-54,Yes,Yes,24.13,No,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 35 to 39,Yes,Yes,28.66,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+18-24,No,No,25.75,Yes (during pregnancy),Good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 30 to 34,No,No,28.28,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+65-69,No,No,25.75,No,Good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+65-69,No,No,24.39,No,Very good,No,No,No,White,Male,No,7.0,Yes,No,2020
+Age 65 to 69,No,No,32.77,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+25-29,No,No,28.06,Yes (during pregnancy),Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 18 to 24,No,No,22.96,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+55-59,No,No,27.37,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+35-39,No,Yes,36.02,No,Good,No,No,No,White,Female,No,7.0,Yes,No,2020
+Age 40 to 44,No,No,56.49,No,Fair,No,No,No,"White only, Non-Hispanic",Female,Yes,6.0,Never smoked,No,2022
+55-59,No,No,28.15,No,Very good,No,No,Yes,American Indian/Alaskan Native,Female,No,24.0,Yes,No,2020
+18-24,No,Yes,34.44,No,Good,No,No,Yes,White,Female,No,5.0,No,No,2020
+Age 30 to 34,No,No,20.18,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,5.0,Never smoked,No,2022
+35-39,No,No,29.05,No,Good,No,No,Yes,White,Female,No,5.0,No,No,2020
+60-64,No,No,29.86,No,Excellent,No,No,Yes,Black,Female,No,7.0,No,No,2020
+60-64,No,No,28.25,No,Good,No,No,Yes,White,Male,No,8.0,No,No,2020
+65-69,No,No,28.25,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+70-74,No,No,25.42,Yes,Poor,No,No,No,Hispanic,Female,No,7.0,No,No,2020
+45-49,No,No,23.18,No,Very good,No,No,Yes,White,Female,No,6.0,No,No,2020
+75-79,No,Yes,30.65,Yes,Fair,No,No,Yes,Black,Female,No,7.0,Yes,No,2020
+18-24,No,No,23.01,No,Good,No,No,Yes,Black,Male,No,8.0,No,No,2020
+55-59,No,Yes,35.78,Yes,Good,No,No,No,Hispanic,Female,No,7.0,Yes,No,2020
+Age 70 to 74,No,No,35.28,Yes,Fair,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+55-59,No,No,30.04,No,Excellent,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+70-74,No,No,31.38,Yes,Good,No,No,Yes,White,Male,Yes,7.0,Yes,No,2020
+Age 35 to 39,No,No,34.97,No,Very good,No,No,No,"White only, Non-Hispanic",Male,No,5.0,Former smoker,No,2022
+65-69,No,Yes,31.62,Yes,Poor,No,No,Yes,Black,Female,No,8.0,Yes,No,2020
+Age 45 to 49,No,Yes,31.0,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+70-74,No,No,43.33,Yes,Fair,No,No,No,White,Female,No,7.0,Yes,No,2020
+40-44,No,No,25.8,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 60 to 64,No,No,34.95,No,Good,No,No,Yes,Hispanic,Female,No,8.0,Current smoker - now smokes every day,No,2022
+70-74,No,No,30.11,Yes,Poor,Yes,Yes,Yes,White,Male,Yes,7.0,Yes,No,2020
+Age 30 to 34,Yes,No,23.03,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 70 to 74,Yes,No,42.51,Yes,Good,No,Yes,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 55 to 59,No,No,23.63,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+70-74,No,No,22.46,No,Good,No,Yes,Yes,White,Female,No,8.0,No,No,2020
+70-74,No,No,22.67,Yes,Excellent,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 65 to 69,Yes,No,31.18,No,Fair,No,No,Yes,Hispanic,Male,Yes,8.0,Never smoked,No,2022
+30-34,No,No,24.41,No,Excellent,No,No,Yes,White,Male,No,4.0,Yes,No,2020
+60-64,No,No,23.43,"No, borderline diabetes",Very good,No,No,Yes,Hispanic,Female,No,7.0,No,No,2020
+55-59,No,No,41.2,No,Very good,No,No,No,White,Female,No,6.0,No,No,2020
+45-49,No,No,27.34,No,Good,No,No,Yes,Hispanic,Female,No,8.0,No,No,2020
+Age 75 to 79,No,No,20.77,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+40-44,No,No,36.81,No,Good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+25-29,No,Yes,30.68,No,Good,No,No,Yes,Hispanic,Male,No,6.0,No,No,2020
+70-74,No,No,30.13,No,Good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 65 to 69,No,No,22.96,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+60-64,No,No,32.92,"No, borderline diabetes",Very good,No,No,No,White,Female,No,7.0,No,No,2020
+Age 55 to 59,No,No,20.78,No,Fair,No,No,Yes,"Black only, Non-Hispanic",Female,No,5.0,Never smoked,No,2022
+Age 30 to 34,No,Yes,34.02,Yes,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 75 to 79,No,No,18.88,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+45-49,No,No,39.06,No,Good,No,No,Yes,White,Female,No,7.0,No,No,2020
+18-24,No,No,27.46,No,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 45 to 49,Yes,No,28.35,No,Good,Yes,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+50-54,No,No,27.05,No,Very good,No,No,Yes,White,Male,No,5.0,Yes,No,2020
+65-69,No,No,26.54,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+45-49,No,No,33.0,No,Good,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+75-79,No,No,20.83,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+65-69,No,No,31.89,No,Very good,No,No,Yes,White,Female,No,7.0,No,No,2020
+25-29,No,No,28.34,No,Good,No,No,Yes,Hispanic,Female,No,9.0,No,No,2020
+Age 30 to 34,Yes,No,46.22,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 75 to 79,No,No,24.8,No,Very good,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 65 to 69,Yes,No,36.62,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+18-24,No,Yes,26.96,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 70 to 74,Yes,Yes,26.63,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+80 or older,No,No,19.94,No,Very good,No,No,Yes,White,Female,No,5.0,No,No,2020
+Age 75 to 79,Yes,No,31.38,No,Fair,No,No,No,"White only, Non-Hispanic",Male,No,7.0,Former smoker,No,2022
+Age 60 to 64,Yes,No,30.41,No,Very good,Yes,No,Yes,Hispanic,Male,No,10.0,Former smoker,No,2022
+35-39,No,No,41.81,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 25 to 29,No,No,29.53,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+55-59,No,No,29.95,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 65 to 69,No,Yes,30.41,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,10.0,Former smoker,No,2022
+60-64,No,No,29.95,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+50-54,No,No,23.06,No,Good,No,No,No,White,Male,No,6.0,No,No,2020
+35-39,No,No,28.25,No,Very good,No,No,Yes,White,Male,No,5.0,Yes,No,2020
+80 or older,No,No,19.58,No,Poor,Yes,No,No,White,Female,No,9.0,No,Yes,2020
+40-44,No,No,25.84,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+50-54,No,No,29.34,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+30-34,No,No,26.46,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+70-74,No,No,26.63,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+18-24,No,No,22.05,No,Very good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+55-59,No,No,33.91,"No, borderline diabetes",Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+Age 35 to 39,Yes,No,39.32,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Former smoker,No,2022
+75-79,No,No,20.36,No,Good,No,No,Yes,White,Female,No,5.0,No,No,2020
+65-69,No,No,23.67,No,Fair,No,No,No,White,Male,No,6.0,No,No,2020
+Age 25 to 29,Yes,No,25.8,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 55 to 59,No,No,30.52,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+80 or older,No,No,27.71,No,Fair,No,No,Yes,White,Male,No,9.0,Yes,No,2020
+Age 80 or older,Yes,No,25.06,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,8.0,Former smoker,No,2022
+65-69,No,No,36.58,No,Good,No,No,No,Other,Female,No,8.0,No,No,2020
+50-54,No,No,27.32,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+25-29,No,No,18.25,No,Good,No,No,Yes,Asian,Male,No,9.0,No,No,2020
+70-74,No,No,27.89,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+80 or older,No,No,22.46,No,Fair,Yes,No,No,White,Female,No,6.0,No,No,2020
+65-69,No,Yes,31.47,No,Good,No,No,Yes,White,Male,No,6.0,No,No,2020
+75-79,No,No,22.05,No,Excellent,No,No,Yes,White,Male,Yes,8.0,No,No,2020
+18-24,No,No,27.44,No,Very good,No,No,Yes,White,Female,No,1.0,No,No,2020
+Age 75 to 79,No,No,26.26,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Former smoker,No,2022
+70-74,No,No,23.71,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+Age 35 to 39,No,No,44.29,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+35-39,No,No,20.54,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 65 to 69,No,No,34.01,Yes,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+18-24,No,No,25.75,No,Excellent,No,No,Yes,Hispanic,Female,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,24.33,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,Yes,2022
+60-64,No,No,36.94,Yes,Very good,No,No,No,White,Male,No,8.0,No,No,2020
+50-54,No,Yes,26.22,"No, borderline diabetes",Fair,No,No,No,White,Female,No,5.0,Yes,No,2020
+60-64,No,No,25.79,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+Age 30 to 34,No,No,30.34,No,Good,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+25-29,No,No,42.07,No,Good,No,No,Yes,Black,Female,No,7.0,No,No,2020
+55-59,No,No,31.65,No,Good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+18-24,No,No,22.6,No,Very good,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+Age 40 to 44,Yes,No,25.09,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+30-34,No,No,25.09,No,Excellent,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+45-49,No,No,25.15,No,Excellent,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+80 or older,No,No,19.39,No,Fair,No,No,No,White,Female,No,8.0,No,No,2020
+30-34,No,No,32.22,No,Very good,No,No,Yes,Asian,Male,No,7.0,Yes,No,2020
+30-34,No,No,31.16,Yes,Fair,Yes,No,Yes,American Indian/Alaskan Native,Male,No,7.0,No,Yes,2020
+65-69,No,No,38.27,No,Good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+55-59,No,No,23.75,No,Very good,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+30-34,No,No,22.05,No,Excellent,No,No,Yes,White,Female,No,7.0,No,No,2020
+55-59,No,No,27.78,No,Excellent,No,No,Yes,Hispanic,Female,No,6.0,No,No,2020
+Age 30 to 34,Yes,Yes,51.21,No,Good,No,No,No,"Black only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 55 to 59,Yes,No,28.97,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,Yes,7.0,Never smoked,No,2022
+55-59,No,No,25.11,No,Very good,No,No,Yes,White,Male,No,6.0,No,No,2020
+65-69,No,Yes,32.92,Yes,Good,No,Yes,Yes,White,Female,No,6.0,No,No,2020
+40-44,No,No,32.55,No,Very good,No,No,Yes,White,Male,No,6.0,Yes,No,2020
+Age 50 to 54,No,No,24.11,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 75 to 79,No,No,32.1,No,Good,Yes,No,No,"White only, Non-Hispanic",Male,No,5.0,Never smoked,Yes,2022
+Age 60 to 64,No,No,39.94,Yes,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+45-49,No,No,32.11,No,Good,No,No,Yes,White,Male,No,5.0,No,No,2020
+Age 65 to 69,Yes,No,34.3,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,6.0,Never smoked,No,2022
+50-54,No,No,31.89,No,Good,No,No,Yes,White,Female,No,7.0,No,No,2020
+18-24,No,No,23.92,No,Good,No,No,Yes,Hispanic,Male,No,8.0,No,No,2020
+Age 60 to 64,Yes,No,45.19,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,5.0,Former smoker,No,2022
+55-59,No,No,32.49,No,Good,No,No,No,Hispanic,Male,No,8.0,No,No,2020
+40-44,No,No,44.09,No,Good,No,No,Yes,Black,Male,No,6.0,No,No,2020
+Age 50 to 54,Yes,No,23.18,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 30 to 34,Yes,No,34.37,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Current smoker - now smokes every day,No,2022
+60-64,No,No,26.57,No,Excellent,No,No,Yes,White,Female,No,8.0,Yes,No,2020
+80 or older,Yes,No,18.72,No,Excellent,No,No,Yes,White,Female,Yes,8.0,Yes,No,2020
+Age 60 to 64,No,No,25.75,No,Good,No,No,No,"White only, Non-Hispanic",Female,No,8.0,Current smoker - now smokes every day,No,2022
+Age 55 to 59,Yes,No,26.63,No,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+55-59,No,No,22.32,No,Good,No,No,Yes,White,Male,No,10.0,Yes,No,2020
+Age 55 to 59,Yes,No,26.32,No,Fair,No,No,Yes,"White only, Non-Hispanic",Male,Yes,6.0,Never smoked,No,2022
+Age 70 to 74,No,No,28.34,No,Good,No,No,Yes,"Black only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+75-79,No,No,28.15,No,Very good,No,No,Yes,Hispanic,Male,No,7.0,Yes,No,2020
+18-24,No,No,27.46,No,Excellent,No,No,Yes,Black,Male,No,6.0,No,No,2020
+30-34,No,No,53.16,No,Fair,No,No,No,White,Female,No,6.0,Yes,No,2020
+40-44,No,No,23.06,No,Excellent,No,No,Yes,White,Male,No,7.0,No,No,2020
+65-69,No,No,29.84,No,Excellent,No,No,Yes,Black,Male,No,6.0,No,Yes,2020
+65-69,No,Yes,42.22,No,Good,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 65 to 69,Yes,No,27.8,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+Age 55 to 59,No,Yes,27.63,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+80 or older,No,No,24.97,No,Very good,No,Yes,Yes,White,Male,Yes,8.0,Yes,No,2020
+Age 65 to 69,No,Yes,38.97,No,Fair,No,No,No,"White only, Non-Hispanic",Female,No,10.0,Former smoker,No,2022
+Age 35 to 39,Yes,No,25.83,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+75-79,No,No,23.05,No,Very good,Yes,No,Yes,White,Female,No,5.0,No,No,2020
+Age 65 to 69,No,No,33.66,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Current smoker - now smokes every day,No,2022
+Age 70 to 74,No,No,31.62,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,Yes,4.0,Current smoker - now smokes some days,No,2022
+Age 35 to 39,No,No,23.75,No,Fair,No,No,Yes,"Multiracial, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+60-64,No,No,23.63,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+45-49,No,No,31.89,No,Good,No,No,No,Hispanic,Female,No,6.0,No,No,2020
+Age 60 to 64,Yes,No,41.6,No,Poor,No,No,No,"White only, Non-Hispanic",Male,No,4.0,Former smoker,No,2022
+65-69,No,No,30.81,Yes,Good,No,No,Yes,White,Male,No,7.0,No,No,2020
+80 or older,No,No,25.25,"No, borderline diabetes",Good,No,No,Yes,Black,Female,No,8.0,Yes,No,2020
+Age 70 to 74,Yes,No,24.33,No,Very good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 45 to 49,No,No,26.13,No,Very good,No,No,No,"Other race only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 50 to 54,Yes,No,29.53,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,9.0,Never smoked,No,2022
+60-64,No,No,24.39,No,Fair,No,No,Yes,American Indian/Alaskan Native,Male,No,8.0,No,No,2020
+65-69,No,No,25.83,No,Excellent,No,No,No,White,Male,No,7.0,No,No,2020
+50-54,No,No,29.53,No,Excellent,No,No,Yes,White,Male,No,8.0,Yes,No,2020
+Age 70 to 74,No,No,26.83,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,6.0,Current smoker - now smokes every day,No,2022
+35-39,No,No,28.89,No,Very good,No,No,Yes,White,Male,No,8.0,No,No,2020
+40-44,No,No,36.61,No,Very good,No,No,No,Hispanic,Male,No,7.0,Yes,No,2020
+Age 55 to 59,Yes,Yes,29.53,Yes,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+55-59,Yes,No,24.69,No,Very good,Yes,No,Yes,White,Female,No,7.0,Yes,No,2020
+35-39,No,No,30.72,No,Good,Yes,No,Yes,Hispanic,Female,No,8.0,Yes,No,2020
+60-64,No,No,22.14,No,Excellent,No,No,Yes,White,Female,No,6.0,No,No,2020
+Age 35 to 39,Yes,No,22.24,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 60 to 64,No,No,23.03,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 70 to 74,Yes,No,25.07,No,Poor,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+50-54,No,No,26.39,No,Excellent,No,No,Yes,Hispanic,Male,No,8.0,No,No,2020
+18-24,No,No,28.25,No,Very good,No,No,Yes,White,Male,No,7.0,No,No,2020
+60-64,No,No,40.35,No,Good,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 75 to 79,Yes,Yes,24.33,No,Very good,No,Yes,No,"White only, Non-Hispanic",Male,No,8.0,Former smoker,No,2022
+Age 65 to 69,Yes,Yes,30.18,"No, pre-diabetes or borderline diabetes",Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+Age 35 to 39,No,No,47.26,No,Fair,No,No,No,"White only, Non-Hispanic",Male,No,8.0,Current smoker - now smokes every day,No,2022
+50-54,No,Yes,33.72,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+80 or older,No,Yes,27.41,"No, borderline diabetes",Good,No,No,Yes,White,Male,Yes,8.0,No,No,2020
+Age 75 to 79,No,Yes,20.45,Yes,Poor,Yes,No,No,"White only, Non-Hispanic",Male,Yes,6.0,Former smoker,No,2022
+55-59,No,Yes,21.93,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 75 to 79,Yes,No,24.89,No,Fair,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Former smoker,No,2022
+60-64,No,No,40.61,No,Good,No,No,No,American Indian/Alaskan Native,Male,No,8.0,No,No,2020
+75-79,No,No,31.47,No,Very good,No,No,Yes,White,Male,No,10.0,No,No,2020
+Age 65 to 69,No,No,22.15,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,Yes,9.0,Former smoker,No,2022
+Age 60 to 64,No,No,36.92,No,Very good,No,No,No,"White only, Non-Hispanic",Female,No,6.0,Never smoked,No,2022
+Age 65 to 69,Yes,No,27.32,No,Good,No,No,Yes,"White only, Non-Hispanic",Male,No,7.0,Never smoked,No,2022
+Age 50 to 54,Yes,No,30.79,No,Good,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+Age 18 to 24,No,No,43.75,No,Fair,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+65-69,No,No,44.29,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+Age 60 to 64,No,No,30.0,Yes,Good,No,Yes,Yes,"Black only, Non-Hispanic",Male,No,5.0,Never smoked,No,2022
+Age 65 to 69,No,No,26.37,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,7.0,Never smoked,No,2022
+35-39,No,Yes,31.32,No,Fair,No,No,No,White,Female,No,4.0,Yes,No,2020
+70-74,No,Yes,32.5,Yes,Very good,No,No,Yes,White,Female,No,6.0,Yes,No,2020
+65-69,No,No,26.87,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 60 to 64,No,Yes,31.89,No,Very good,No,No,Yes,"Black only, Non-Hispanic",Male,No,12.0,Former smoker,No,2022
+Age 70 to 74,Yes,No,20.16,No,Very good,No,No,Yes,"White only, Non-Hispanic",Male,No,8.0,Never smoked,No,2022
+65-69,No,No,22.5,Yes,Good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+Age 18 to 24,Yes,No,23.96,No,Very good,No,No,Yes,Hispanic,Male,No,8.0,Never smoked,No,2022
+Age 60 to 64,Yes,No,32.55,No,Fair,No,No,No,"White only, Non-Hispanic",Male,No,6.0,Never smoked,No,2022
+40-44,No,No,42.33,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+30-34,No,No,27.6,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 50 to 54,Yes,No,21.79,No,Excellent,No,No,Yes,"White only, Non-Hispanic",Female,No,8.0,Never smoked,No,2022
+Age 40 to 44,Yes,No,23.4,No,Good,No,No,Yes,"Other race only, Non-Hispanic",Female,No,6.0,Current smoker - now smokes every day,No,2022
+40-44,No,No,30.13,No,Excellent,No,No,Yes,White,Male,No,6.0,No,No,2020
+Age 50 to 54,Yes,No,20.3,No,Very good,No,No,Yes,"Multiracial, Non-Hispanic",Female,Yes,9.0,Never smoked,No,2022
+Age 75 to 79,No,No,26.13,No,Good,Yes,No,Yes,"White only, Non-Hispanic",Male,Yes,7.0,Former smoker,Yes,2022
+60-64,No,No,21.8,No,Very good,No,No,Yes,White,Female,No,8.0,No,No,2020
+18-24,No,No,23.11,No,Excellent,No,No,Yes,White,Male,No,8.0,No,No,2020
+70-74,No,No,27.76,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
+Age 55 to 59,Yes,No,23.06,No,Fair,No,No,No,"White only, Non-Hispanic",Male,No,6.0,Former smoker,No,2022
+75-79,No,No,30.13,No,Excellent,No,No,Yes,White,Male,No,7.0,Yes,No,2020
+50-54,No,No,30.04,No,Very good,No,No,Yes,White,Female,No,7.0,Yes,No,2020
